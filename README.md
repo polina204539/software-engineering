@@ -77,8 +77,8 @@ IDEF диаграмма
 
 ![1](https://user-images.githubusercontent.com/90207185/227237392-cfb3d275-f359-4a17-85d6-ed5ea2b92ff1.png)
 
-
 UML
+
 ![2](https://user-images.githubusercontent.com/90207185/227237422-b3ef315e-b60b-45ab-9938-1b235d983541.png)
 
 

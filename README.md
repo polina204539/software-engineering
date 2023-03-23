@@ -75,8 +75,10 @@
 IDEF диаграмма 
 ![IMAGE 2023-03-16 00:07:30](https://user-images.githubusercontent.com/90207185/225442981-aeaa45c0-aeb7-4b63-84ee-6f4bd13570ec.jpg)
 
-![IMAGE 2023-03-16 15:58:17](https://user-images.githubusercontent.com/90207185/225624099-f87f2da1-6684-45a2-be5e-ef9cdb3580d2.jpg)
+![1](https://user-images.githubusercontent.com/90207185/227237392-cfb3d275-f359-4a17-85d6-ed5ea2b92ff1.png)
+
 
 UML
-![photo_2023-03-23 17 20 25](https://user-images.githubusercontent.com/90207185/227232915-0937f0bf-6828-4803-adbc-2024c02dbf63.jpeg)
+![2](https://user-images.githubusercontent.com/90207185/227237422-b3ef315e-b60b-45ab-9938-1b235d983541.png)
+
 

@@ -74,4 +74,5 @@ IDEF диаграмма
 
 ![IMAGE 2023-03-16 15:58:17](https://user-images.githubusercontent.com/90207185/225624099-f87f2da1-6684-45a2-be5e-ef9cdb3580d2.jpg)
 
+![photo_2023-03-23 17 20 25](https://user-images.githubusercontent.com/90207185/227232915-0937f0bf-6828-4803-adbc-2024c02dbf63.jpeg)
 

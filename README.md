@@ -82,3 +82,5 @@ UML
 ![2](https://user-images.githubusercontent.com/90207185/227237422-b3ef315e-b60b-45ab-9938-1b235d983541.png)
 
 
+Диограмма развертывания
+![IMAGE 2023-03-30 18:36:28](https://user-images.githubusercontent.com/90207185/228889382-7532fa52-7f75-472b-8b1f-f0ab75055a36.jpg)

@@ -83,4 +83,6 @@ UML
 
 
 Диограмма развертывания
-![IMAGE 2023-03-30 18:36:28](https://user-images.githubusercontent.com/90207185/228889382-7532fa52-7f75-472b-8b1f-f0ab75055a36.jpg)
+
+![IMAGE 2023-03-31 12:55:14](https://user-images.githubusercontent.com/90207185/229088779-2381833d-74b3-406b-8594-fb0d89cb8c90.jpg)
+

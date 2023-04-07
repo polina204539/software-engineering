@@ -80,9 +80,12 @@ IDEF диаграмма
 UML
 
 ![2](https://user-images.githubusercontent.com/90207185/227237422-b3ef315e-b60b-45ab-9938-1b235d983541.png)
+<img width="458" alt="Снимок экрана 2023-04-06 в 22 14 25" src="https://user-images.githubusercontent.com/90207185/230672097-a493c305-4bcd-4c8d-8c1b-8a05b0d16f15.png">
 
 
 Диограмма развертывания
 
 ![IMAGE 2023-03-31 12:55:14](https://user-images.githubusercontent.com/90207185/229088779-2381833d-74b3-406b-8594-fb0d89cb8c90.jpg)
 
+Диаграмма состояний
+![Uploading Снимок экрана 2023-04-06 в 22.14.25.png…]()

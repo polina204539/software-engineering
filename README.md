@@ -88,4 +88,6 @@ UML
 ![IMAGE 2023-03-31 12:55:14](https://user-images.githubusercontent.com/90207185/229088779-2381833d-74b3-406b-8594-fb0d89cb8c90.jpg)
 
 Диаграмма состояний
-![Uploading Снимок экрана 2023-04-06 в 22.14.25.png…]()
+
+<img width="458" alt="диаграмма состояний" src="https://user-images.githubusercontent.com/90207185/230672277-b3092d02-50b3-4d89-8bed-e9c2b4bf4b3b.png">
+
